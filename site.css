@@ -1,0 +1,31 @@
+* {
+    color: aliceblue;
+    /* o coringa  * serve para mudar a propriedade de todos os elementos , textos do body */
+    text-transform: uppercase; /* colocar todo o texto em caixa alta " letra maiuscula " */
+    text-decoration: none; 
+    /* none vai desligar a decoração do texto , exemplo do texto que fica sublinhado */
+    list-style: none; /* o none  desliga o estilo da lista , tirar de ordem */
+}
+
+body {
+    background-image: url(imagem.jpg);
+    margin: 0%;  /* margin tira toda a borda de cima e completa o espaço */
+    background-size: 100%; /* completar a imgaem toda na imagem */
+    }
+
+h1 {
+    float: left; /* Levar o nome LOREM para flutuar a esquerda */
+    }
+
+.ok {
+    float: right; /* Levar o nome LOREM para flutuar a esquerda */
+    list-style: none;  /* tirar o as bolinhas e os numerais do texto  */
+    padding: 15px 30px;
+}
+
+div{
+    background-color: #993399;  /* cor de fundo do texto */
+    overflow: hidden;     /* reconhecer uma tag que está com float */
+    padding-left: 200px; /* para puxar o loren pro lado direito, espaço para esquerda */
+    padding-right: 150px; /* para puxar o loren pro lado esquerda, espaço para direita */
+}

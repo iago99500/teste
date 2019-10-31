@@ -1,0 +1,30 @@
+* {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    background-image: url(imagem.jpg);
+    margin: 0px;
+    background-size: 100%;
+}
+
+h1 {
+    float: left;
+}
+
+.ok {
+    float: right;
+    list-style: none;
+    padding: 15px 30px;
+    margin-right: 0px;
+}
+
+div {
+    background-color: #993399;
+    overflow: hidden;
+    padding-left: 200px;
+    padding-right: 150px;
+    height: 80px;
+}
