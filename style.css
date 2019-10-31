@@ -1,0 +1,32 @@
+h1{
+    color: #b4841c;  /* cor da fonte */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* mudar a fonte */
+    text-align: center; /* escolher onde o texto deve ficar */
+    background-color: rgba(68, 68, 62, 0.979); /* Cor de fundo */
+    font-style: italic; /* Estilo da fonte */
+    background-image: url(images.jpg); /* imagem de fundo do texto */
+    border-style: solid; /* Consistencia da borda */
+    border-color: crimson;/* Cor da borda */
+    border-width: 2px;/* Tamanho da borda  */
+    font-weight: bold; /* NEGRITO */
+}
+p{
+    color: rgb(0, 81, 255);
+    font-family: 'Gill Sans';
+    font-size: 30px;/* Tamanho da fonte */
+    text-align: end;
+}
+body{
+    background-image:url(sasageyo.jpg);/* imagem de fundo do site */
+}
+ul{
+    font-size: 25px;
+    color: darkcyan;
+}
+img{
+    border: 2px greenyellow solid;
+    padding-right: 1cm;
+    padding-left: 1cm;/* espaço intermo */
+    margin: 0fr;    /* espaçamento externo */
+}
