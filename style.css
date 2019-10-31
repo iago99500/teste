@@ -12,7 +12,7 @@ h1{
     font-weight: bold; /* NEGRITO */
 }
 p{
-    color: rgb(0, 81, 255);
+    color: red (0, 81, 255);
     font-family: 'Gill Sans';
     font-size: 30px;/* Tamanho da fonte */
     text-align: end;
